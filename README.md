@@ -64,6 +64,37 @@ Covers:
 
 Use cases span sports, user ratings, healthcare, ML, autonomous vehicles, and patient care.
 
+### ATM.py
+- Simulates a basic ATM interface
+- Features:
+  - Check balance
+  - Withdraw money
+  - Deposit money
+  - Exit functionality
+
+Covers:
+- While loops and conditional statements
+- User input handling and validation
+- Basic arithmetic operations
+- Continuous program execution with exit option
+
+Use case: Banking system simulation
+
+### vending_machine.py
+- Simulates a vending machine interface
+- Features:
+  - Product selection and pricing
+  - Payment processing
+  - Change calculation
+  - Owner's menu for money withdrawal
+
+Covers:
+- Dictionaries for product storage
+- While loops for continuous operation
+- User input handling and validation
+- Basic arithmetic for transactions
+
+Use case: Retail automation simulation
 
 ## How to Run
 
