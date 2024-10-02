@@ -36,11 +36,6 @@ This repository contains several Python scripts demonstrating various basic conc
   - Number manipulation (reversing, finding largest digit)
   - Prime number operations
 
-## Learning Objectives
-- Basic Python syntax and concepts
-- Control structures and data manipulation
-- Simple algorithmic thinking
-
 ### ex8.py
 - Demonstrates dictionary operations using two use cases:
   1. Student Registration System
